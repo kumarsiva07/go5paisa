@@ -1,6 +1,6 @@
-module github.com/5paisa/go5paisa
+module github.com/kumarsiva07/go5paisa
 
-go 1.14
+go 1.17
 
 require (
 	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899
